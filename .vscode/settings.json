@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "C:\\Anaconda3\\envs\\opencv_env",
+    ],
+    "python.analysis.extraPaths": [
+        "C:\\Anaconda3\\envs\\opencv_env"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
